@@ -4,7 +4,12 @@
 
 <center>![img_2](./ScreenShots/微信截图_20160415150651.png)</center><center>![img_2](./ScreenShots/微信截图_20160415150719.png)<br /></center>
 
-#效果图如下
+
+#### 使用Gradle构建时添加一下依赖即可:
+```javascript
+compile 'compile 'com.linglongxin24:UncaughtExceptionSendEmail:1.0.0''
+
+
 继承系统的application
 ```java
 /**
