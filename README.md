@@ -6,6 +6,7 @@
 
 #效果图如下
 继承系统的application
+```java
 /**
  * Created by yuandl on 2016/4/7 0007.
  */
@@ -19,5 +20,6 @@ public class MyApplication extends Application {
         CustomActivityOnCrash.setDebugMode(true);
     }
 }
+```
 
 
