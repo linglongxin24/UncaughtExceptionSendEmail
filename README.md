@@ -7,7 +7,7 @@
 
 #### 使用Gradle构建时添加一下依赖即可:
 ```javascript
-compile 'compile 'com.linglongxin24:UncaughtExceptionSendEmail:1.0.0''
+compile 'compile 'com.linglongxin24:UncaughtExceptionSendEmail:1.0.0'
 
 
 继承系统的application
